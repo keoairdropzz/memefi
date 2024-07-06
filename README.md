@@ -1,4 +1,4 @@
 {
-  "tapsCount": 8,
-  "vector": "4,2,4,2,2,2,2,4"
+  "tapsCount": 6,
+  "vector": "2,3,1,2,4,4"
 }
